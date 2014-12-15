@@ -1,0 +1,44 @@
+# Object files
+*.o
+
+# Libraries
+*.a
+
+# Libtool stuff
+*.lo
+*.la
+
+# Shared objects (inc. Windows DLLs)
+*.so
+*.so.*
+
+# Test programs
+test/flash
+
+# Autotools stuff
+aclocal.m4
+ar-lib
+config.guess
+autom4te.cache/
+config.h
+config.log
+config.status
+config.sub
+configure
+depcomp
+install-sh
+libtool
+ltmain.sh
+Makefile
+Makefile.in
+stamp-h1
+missing
+test-driver
+.deps/
+.libs/
+
+# temp files
+*~
+
+# file manager stuff
+.directory

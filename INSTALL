@@ -1,0 +1,6 @@
+Build Instructions:
+
+1. autoreconf -i
+2. ./configure --prefix=...
+   make
+   meke install DESTDIR=...

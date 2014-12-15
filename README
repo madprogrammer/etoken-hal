@@ -1,0 +1,2 @@
+libhal stub to allow using proprietary Alladin (SafeNet) eToken Linux drivers
+on newer systems where libhal.so has been removed and superseded by udev.
